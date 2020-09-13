@@ -968,8 +968,6 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm \
     QtiTelephonyService \
     uceShimService \
-    HotwordEnrollmentOKGoogleHEXAGON \
-    HotwordEnrollmentXGoogleHEXAGON \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
